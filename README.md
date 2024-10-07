@@ -1,4 +1,5 @@
-Aircraft Performance Calculator 
+<h2 style="font-size: 15px;">Usage</h2>
+**Aircraft Performance Calculator** 
 
 Aerodynamics is the study of how things fly through air. 
 The core of aerodynamics is understanding how air flows over surfaces and how that affects engineering characteristics like speed, lift, drag resistance, and stability.
@@ -6,7 +7,8 @@ The core of aerodynamics is understanding how air flows over surfaces and how th
 <img width="407" alt="Aircraft Performance Calculator" src="https://github.com/user-attachments/assets/036efa5a-5c79-49dc-b6ad-557362f50ae8">
 
 
-Solar System Visualization 
+<h2 style="font-size: 15px;">Usage</h2>
+**Solar System Visualization** 
 
 Solar system consists of 8 planets which can be categorized as terrestrial and gas giants.
 
@@ -15,21 +17,24 @@ Solar system consists of 8 planets which can be categorized as terrestrial and g
 <img width="527" alt="Solar System Visualization2" src="https://github.com/user-attachments/assets/5a8b5056-b6e2-40c0-90ed-7b078635150f">
 
 
-Satellite Tracker 
+<h2 style="font-size: 15px;">Usage</h2>
+**Satellite Tracker** 
 
 Polar visualizations use a polar coordinate system, with the observer's location at the center and azimuth (horizontal angle) and elevation (vertical angle) as the coordinates to plot satellite passes relative to the observer's geographic location on Earth.
 
 <img width="407" alt="Satellite Tracker" src="https://github.com/user-attachments/assets/53e2f3bd-a8be-4d90-ba9d-23efe2acdadd">
 
+<h2 style="font-size: 15px;">Usage</h2>
+**Rocket Equation Numerical Solver** 
 
-Rocket Equation Numerical Solver 
 
 The rocket equation, also known as the Tsiolkovsky rocket equation, is a fundamental equation in astronautics and aerospace engineering that describes the motion of a rocket in terms of its mass and the velocity of the exhaust gases expelled from the rocket engine.
 
 <img width="790" alt="Rocket Equation Numerical Solver " src="https://github.com/user-attachments/assets/b96d71aa-8d24-4cc4-9306-48b953f81eb6">
 
 
-Satellite Trajectory Analysis GUI 
+<h2 style="font-size: 15px;">Usage</h2>
+**Satellite Trajectory Analysis GUI** 
 
 Satellite trajectory analysis involves the study and prediction of the path that a satellite follows as it orbits around Earth. 
 
