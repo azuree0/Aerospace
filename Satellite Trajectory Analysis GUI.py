@@ -74,15 +74,8 @@ def display_sliders(a, e, i, o, w, v):
      inclination_slider.set(i)
      raan_slider.set(o)
      argument_periapsis_slider.set(w)
-     mean_anamoly_slider.set(v)
+     mean_anomoly_slider.set(v)
      
-# Default:
-# Semi-Major Axis: 10000
-# Eccentricity: 0.1
-# Inclination: 90
-# RAAN: 40
-# Argument of Periapsis: 1
-# Mean Anamoly: 1
 display_sliders(10000, 0.1, 90, 40, 1, 1)
 
 def trace_altitude_graph(tle_one, tle_two):
