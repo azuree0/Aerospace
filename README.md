@@ -23,7 +23,11 @@ Solar system consists of 8 planets which can be categorized as terrestrial and g
 
 Polar visualizations use a polar coordinate system, with the observer's location at the center and azimuth (horizontal angle) and elevation (vertical angle) as the coordinates to plot satellite passes relative to the observer's geographic location on Earth.
 
-<img width="407" alt="Satellite Tracker" src="https://github.com/user-attachments/assets/53e2f3bd-a8be-4d90-ba9d-23efe2acdadd">
+<img width="710" alt="Satellite Tracker1" src="https://github.com/user-attachments/assets/ace7f17b-bfe3-4d1d-b73b-d29b7be8f6cf">
+
+<br><br><br>
+
+<img width="407" alt="Satellite Tracker2" src="https://github.com/user-attachments/assets/7795b51f-2f7c-4b36-8467-e6064916d4cf">
 
 <br><br><br>
 
