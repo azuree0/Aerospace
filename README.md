@@ -6,7 +6,7 @@ Aerodynamics is the study of how things fly through air.
 
 <img width="407" alt="Aircraft Performance Calculator" src="https://github.com/user-attachments/assets/036efa5a-5c79-49dc-b6ad-557362f50ae8">
 
-<br>
+<br><br>
 
 <h2 style="font-size: 15px;">Solar System Visualization</h2> 
 
@@ -20,7 +20,7 @@ Solar system consists of 8 planets which can be categorized as terrestrial and g
 
 <img width="527" alt="Solar System Visualization2" src="https://github.com/user-attachments/assets/5a8b5056-b6e2-40c0-90ed-7b078635150f">
 
-<br>
+<br><br>
 
 <h2 style="font-size: 15px;">Satellite Tracker</h2> 
 
@@ -34,7 +34,7 @@ Polar visualizations coordinate system.
 
 <img width="407" alt="Satellite Tracker2" src="https://github.com/user-attachments/assets/7795b51f-2f7c-4b36-8467-e6064916d4cf">
 
-<br>
+<br><br>
 
 <h2 style="font-size: 15px;">Rocket Equation Numerical Solver</h2>
 
@@ -44,7 +44,7 @@ Tsiolkovsky rocket equation is a fundamental equation in astronautics and aerosp
 
 <img width="790" alt="Rocket Equation Numerical Solver " src="https://github.com/user-attachments/assets/b96d71aa-8d24-4cc4-9306-48b953f81eb6">
 
-<br>
+<br><br>
 
 <h2 style="font-size: 15px;">Satellite Trajectory Analysis GUI</h2>
 
