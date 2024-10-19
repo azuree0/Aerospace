@@ -10,7 +10,7 @@ Aerodynamics is the study of how things fly through air.
 
 <h2 style="font-size: 15px;">Solar System Visualization</h2> 
 
-Solar system consists of 8 planets which can be categorized as terrestrial and gas giants.
+Solar system consists of 8 planets which can be categorized as terrestrial & gas giants.
 
 <br>
 
@@ -38,7 +38,7 @@ Polar visualizations coordinate system.
 
 <h2 style="font-size: 15px;">Rocket Equation Numerical Solver</h2>
 
-Tsiolkovsky rocket equation is a fundamental equation in astronautics and aerospace engineering.
+Tsiolkovsky rocket equation is a fundamental equation in astronautics & aerospace engineering.
 
 <br>
 
