@@ -26,8 +26,6 @@ Solar system consists of 8 planets which can be categorized as terrestrial & gas
 
 Polar visualizations coordinate system.
 
-<br>
-
 <img width="710" alt="Satellite Tracker1" src="https://github.com/user-attachments/assets/ace7f17b-bfe3-4d1d-b73b-d29b7be8f6cf">
 
 <br><br>
