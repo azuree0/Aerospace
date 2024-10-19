@@ -16,7 +16,7 @@ Solar system consists of 8 planets which can be categorized as terrestrial and g
 
 <img width="567" alt="Solar System Visualization1" src="https://github.com/user-attachments/assets/92646732-8eef-462b-a323-06dbe616d56c">
 
-<br>
+<br><br>
 
 <img width="527" alt="Solar System Visualization2" src="https://github.com/user-attachments/assets/5a8b5056-b6e2-40c0-90ed-7b078635150f">
 
@@ -26,11 +26,11 @@ Solar system consists of 8 planets which can be categorized as terrestrial and g
 
 Polar visualizations coordinate system.
 
-<br><br><br>
+<br>
 
 <img width="710" alt="Satellite Tracker1" src="https://github.com/user-attachments/assets/ace7f17b-bfe3-4d1d-b73b-d29b7be8f6cf">
 
-<br>
+<br><br>
 
 <img width="407" alt="Satellite Tracker2" src="https://github.com/user-attachments/assets/7795b51f-2f7c-4b36-8467-e6064916d4cf">
 
