@@ -1,8 +1,6 @@
 <h2 style="font-size: 15px;">Aircraft Performance Calculator</h2>
  
-Aerodynamics is the study of how things fly through air.
-
-<br><br><br>
+Aerodynamics is the study of how things fly through air. <br>
 
 <img width="407" alt="Aircraft Performance Calculator" src="https://github.com/user-attachments/assets/036efa5a-5c79-49dc-b6ad-557362f50ae8">
 
