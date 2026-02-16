@@ -1,6 +1,5 @@
-<h2 style="font-size: 15px;">Aircraft Performance Calculator</h2>
- 
-Aerodynamics is the study of how things fly through air.
+
+<img width="1125" alt="Satellite Tranjectory Analysis" src="https://github.com/user-attachments/assets/86f9cac2-334b-4cf7-b374-d82dba4bd186">
 
 <br>
 
@@ -52,4 +51,8 @@ Satellite trajectory analysis involves the study and prediction of the path that
 
 <br>
 
-<img width="1125" alt="Satellite Tranjectory Analysis" src="https://github.com/user-attachments/assets/86f9cac2-334b-4cf7-b374-d82dba4bd186">
+<h2 style="font-size: 15px;">Aircraft Performance Calculator</h2>
+ 
+Aerodynamics is the study of how things fly through air.
+
+<br>
