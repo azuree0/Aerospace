@@ -1,13 +1,12 @@
-
-<h2 style="font-size: 15px;">Satellite Trajectory Analysis GUI</h2>
-
-Satellite trajectory analysis involves the study and prediction of the path that a satellite follows as it orbits around Earth. 
+<h2 style="font-size: 15px;">Aircraft Performance Calculator</h2>
+ 
+Aerodynamics is the study of how things fly through air.
 
 <br>
 
-<img width="1125" alt="Satellite Tranjectory Analysis" src="https://github.com/user-attachments/assets/86f9cac2-334b-4cf7-b374-d82dba4bd186">
+<img width="407" alt="Aircraft Performance Calculator" src="https://github.com/user-attachments/assets/036efa5a-5c79-49dc-b6ad-557362f50ae8">
 
-<br><br>
+<br>
 
 <h2 style="font-size: 15px;">Solar System Visualization</h2> 
 
@@ -47,12 +46,12 @@ Tsiolkovsky rocket equation is a fundamental equation in astronautics & aerospac
 
 <br><br>
 
-<h2 style="font-size: 15px;">Aircraft Performance Calculator</h2>
- 
-Aerodynamics is the study of how things fly through air.
+<h2 style="font-size: 15px;">Satellite Trajectory Analysis GUI</h2>
+
+Satellite trajectory analysis involves the study and prediction of the path that a satellite follows as it orbits around Earth. 
 
 <br>
 
-<img width="407" alt="Aircraft Performance Calculator" src="https://github.com/user-attachments/assets/036efa5a-5c79-49dc-b6ad-557362f50ae8">
+<img width="1125" alt="Satellite Tranjectory Analysis" src="https://github.com/user-attachments/assets/86f9cac2-334b-4cf7-b374-d82dba4bd186">
 
-<br>
+<br><br>
