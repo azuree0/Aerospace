@@ -1,7 +1,11 @@
 
+<h2 style="font-size: 15px;">Satellite Trajectory Analysis GUI</h2>
+
+Satellite trajectory analysis involves the study and prediction of the path that a satellite follows as it orbits around Earth. 
+
+<br>
+
 <img width="1125" alt="Satellite Tranjectory Analysis" src="https://github.com/user-attachments/assets/86f9cac2-334b-4cf7-b374-d82dba4bd186">
-
-
 
 <br><br>
 
@@ -42,12 +46,6 @@ Tsiolkovsky rocket equation is a fundamental equation in astronautics & aerospac
 <img width="790" alt="Rocket Equation Numerical Solver " src="https://github.com/user-attachments/assets/b96d71aa-8d24-4cc4-9306-48b953f81eb6">
 
 <br><br>
-
-<h2 style="font-size: 15px;">Satellite Trajectory Analysis GUI</h2>
-
-Satellite trajectory analysis involves the study and prediction of the path that a satellite follows as it orbits around Earth. 
-
-<br>
 
 <h2 style="font-size: 15px;">Aircraft Performance Calculator</h2>
  
